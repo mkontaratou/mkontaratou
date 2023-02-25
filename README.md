@@ -1,4 +1,4 @@
-### Hi there, I'm Maria 
+### Hi there, I'm Maria 👋
 
 `Undergraduate Computer Science Student @ AUEB`<br/>
 `Currently studying: DBMS, Distributed Systems,Software Engineering` 
