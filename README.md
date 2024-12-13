@@ -6,9 +6,8 @@
 
 ## 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkontaratou&theme=tokyonight&langs_count=6&layout=compact)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkontaratou&layout=compact)
 
 
 <a href = "mailto:kontaratou.mar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
